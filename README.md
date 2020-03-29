@@ -1,0 +1,2 @@
+# PairwiseFairRepresentations
+Operationalizing Individual Fairness with Pairwise Fair Representations
